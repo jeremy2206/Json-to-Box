@@ -27,7 +27,7 @@ An easier way to create customs skin for PCK Studio
 - [x] Can convert some basic skin
 - [x] Can convert all skin
 ### Converter Things [OFFSET]
-- [x] Can convert sskin with the auto offset [Not working for all]
+- [x] Can convert skin with the auto offset [Not fully working for the moment]
 - [x] Can put manually the offset for each part
 - [x] Convert work for all skin
 ### Converter Things [ANIM]
